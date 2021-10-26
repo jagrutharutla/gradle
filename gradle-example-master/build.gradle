@@ -46,7 +46,7 @@ dependencies {
     //Better reporting for testng.  It outputs a nice html report
     testCompile 'org.uncommons:reportng:1.1.4'
     // https://mvnrepository.com/artifact/org.springframework.security/spring-security-core
-    implementation group: 'org.springframework.security', name: 'spring-security-core', version: '5.4.0'
+    implementation group: 'org.springframework.security', name: 'spring-security-core', version: '5.5.3'
     
     // https://mvnrepository.com/artifact/org.springframework/spring-jdbc
     implementation group: 'org.springframework', name: 'spring-jdbc', version: '5.3.0'
